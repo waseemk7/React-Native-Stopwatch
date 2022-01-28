@@ -1,4 +1,5 @@
-# Stopwatch App
+# Stopwatch
+## React Native App
 
 Start button starts the clock.
 
